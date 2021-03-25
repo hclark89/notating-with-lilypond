@@ -4,6 +4,7 @@
 }
 
 \relative c' {
+  \time 2/4
   c8\mf c g' g
   a8 a8 <g d>4
   f8 f e e
